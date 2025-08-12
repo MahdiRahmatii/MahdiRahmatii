@@ -6,3 +6,4 @@ Welcome to my GitHub profile! I'm a passionate game developer with over 8 years 
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MahdiRahmati-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahdirahmati)
+[![Telegram](https://img.shields.io/badge/Telegram-MahdiRahmati-blue?style=flat&logo=telegram)](https://t.me/MRahmati)
