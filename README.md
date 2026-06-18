@@ -1,108 +1,104 @@
-# Mahdi Rahmati
+<h1 align="center">Mahdi Rahmati</h1>
 
-### 🎮 Game Developer | 🧠 Educator | 🚀 Indie Creator
+<h3 align="center">Game Developer • Educator • Indie Creator</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MahdiRahmatii&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  Building scalable games with clean architecture and meaningful experiences.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahdirahmati">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/MRahmati">
+    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
-I am a **Game Developer with 7+ years of experience** specializing in building scalable, optimized, and maintainable game systems using **Unity & C#**.
+I’m a **Game Developer with 7+ years of experience**, focused on building **mobile-first Unity games** with strong architecture, performance, and scalability.
 
-I focus on:
-- Game architecture & system design
-- Performance optimization for mobile games
-- Clean, scalable code structure
-- Teaching & mentoring developers
+Beyond development, I actively teach and mentor developers, helping them understand not just *how to code*, but *how to design systems that last*.
 
-I enjoy building systems that **scale beyond prototypes into real products**.
+I care about:
+- Clean and scalable game architecture  
+- Performance optimization for mobile platforms  
+- Designing systems, not just features  
+- Sharing knowledge through teaching  
 
 ---
 
-## 🧠 Core Strengths
+## ⚙️ Core Expertise
 
-- 🎯 Unity Game Development (Mobile-focused)
-- 🧩 Game Architecture & System Design
-- ⚡ Performance Optimization
-- 🏗 OOP, SOLID, Design Patterns
-- 👨‍🏫 Teaching & Mentoring Developers
-- 🤝 Team Collaboration & Leadership
+🧠 Game Architecture & System Design  
+🎮 Unity Development (Mobile Games)  
+⚡ Performance Optimization  
+🧩 OOP, SOLID Principles, Design Patterns  
+👨‍🏫 Teaching & Mentorship  
+🤝 Team Collaboration & Leadership  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Game Development
-<p>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</p>
+**Game Development**
+- Unity Engine  
+- C#  
 
-### Programming Concepts
-<p>
-  <img src="https://img.shields.io/badge/OOP-Informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-Architecture-orange?style=for-the-badge" />
-</p>
+**Engineering Principles**
+- Object-Oriented Programming  
+- SOLID Principles  
+- Design Patterns  
+- Clean Architecture  
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity%20Rider-000000?style=for-the-badge" />
-</p>
+**Tools**
+- Git & GitHub  
+- Visual Studio / Rider  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I'm Focused On
+
+- Designing scalable game systems in Unity  
+- Building indie game projects  
+- Teaching structured game development  
+- Improving architecture quality in real-world projects  
+
+---
+
+## 📈 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahdiRahmatii&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahdiRahmatii&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiRahmatii&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiRahmatii&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🧭 Philosophy
 
-- Building indie game projects
-- Designing scalable game systems
-- Teaching game development concepts
-- Improving architecture in Unity projects
+> “A good game is not built by features — it is built by systems that survive change.”
 
----
-
-## 🧩 Philosophy
-
-> “Good code is not just working code — it is scalable, readable, and maintainable.”
-
-I believe in:
-- Long-term architecture over quick hacks
-- Clean design over complexity
-- Performance over unnecessary features
+I believe great engineering is:
+- Simple, not complex  
+- Scalable, not fragile  
+- Intentional, not accidental  
 
 ---
 
 ## 🌐 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/mahdirahmati">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://t.me/MRahmati">
-    <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram" />
-  </a>
-</p>
+- LinkedIn: www.linkedin.com/in/mahdirahmati  
+- Telegram: t.me/MRahmati  
 
 ---
 
-## ⭐ Fun Fact
-
-I don’t just build games — I build **systems that can evolve into platforms**.
+<p align="center">
+  <i>Let’s build systems that last, not just games that run.</i>
+</p>
