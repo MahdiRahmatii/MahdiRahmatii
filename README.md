@@ -27,8 +27,6 @@
 
 ## 👤 About Me
 
-<img align="right" src="https://github.com/user-attachments/assets/your-image.png" width="200" alt="Mahdi Rahmati" />
-
 I’m a **Game Developer with 7+ years of experience**, focused on building **mobile-first Unity games** with strong architecture, performance, and scalability.
 
 Beyond development, I actively teach and mentor developers, helping them understand not just *how to code*, but *how to design systems that last*.
