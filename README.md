@@ -18,7 +18,7 @@
   <a href="https://t.me/MRahmati">
     <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mahdirahmati.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -142,7 +142,7 @@ I believe great engineering is:
     <img src="https://img.shields.io/badge/Telegram-@MRahmati-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mahdirahmati.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
